@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "python.pythonPath": "C:\\Python39\\python.exe",
+    "files.associations": {
+        "05_Iterative_Search_in_a_BST.C": "cpp"
+    }
+}
